@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://cdn.akamai.steamstatic.com/store/promo/summer2023/Steam_Summer_Sale_pattern-04-day_lighter.gif?v=2);
+}
+
+/* img {
+  height: 140px;
+  width: 30%;
+  transition: 0.2s;
+} */
+
+/* img:first-of-type {
+  transform: scale(1.2);
+} */
+
+/* img:hover {
+  transform: scale(1.5)
+} */
